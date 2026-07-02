@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.84.0](https://github.com/immich-app/static-pages/compare/ui-v0.83.0...ui-v0.84.0) (2026-07-02)
+
+
+### Features
+
+* june recap ([#615](https://github.com/immich-app/static-pages/issues/615)) ([87a65a7](https://github.com/immich-app/static-pages/commit/87a65a70402de2a929c70d4ab835652b06924f41))
+* **ui:** add indicator to Icon ([#612](https://github.com/immich-app/static-pages/issues/612)) ([b9f9cc6](https://github.com/immich-app/static-pages/commit/b9f9cc65f800c35806f8a8c0e9760e5385f079ac))
+* v3 release ([#558](https://github.com/immich-app/static-pages/issues/558)) ([36480c7](https://github.com/immich-app/static-pages/commit/36480c7392d3cb20901c5b2eb36f46e0922edca9))
+
 ## [0.83.0](https://github.com/immich-app/static-pages/compare/ui-v0.82.0...ui-v0.83.0) (2026-06-25)
 
 
